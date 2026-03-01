@@ -1,2 +1,2 @@
 # programacao_dispositivos_mobile_I
-Repositório destinado à matéria de Programação de dispositivos mobile I
+Repositório destinado à disciplina Programação de dispositivos mobile I
